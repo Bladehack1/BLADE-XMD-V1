@@ -16,7 +16,7 @@
 ---
 # Support blade Tech Inc ❤️
 
-[![Sponsor bladeTech](https://files.catbox.moe/4i664a.jpg/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
+[![Sponsor bladeTech](https://files.catbox.moe/4i664a.jpg/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
 
 ---
 
