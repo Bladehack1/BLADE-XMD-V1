@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB">
+  <a href="https://github.com/Bladehack1/BLADE-XMD-V1">
     <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="SilvaTechBReadme">
   </a>
 </p>
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB/silva-spark-md"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Bladehack1/BLADE-XMD-V1"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/SilvaTechB/silva-spark-md/fork"><img title="silva-spark-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Bladehack1/BLADE-XMD-V1/fork"><img title="silva-spark-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. Get Session ID
 
@@ -79,7 +79,7 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 <h4 align="center">1. Heroku</h4>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-spark-md' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Bladehack1/BLADE-XMD-V1' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="center">2. Koyeb</h4>
@@ -115,8 +115,8 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 <a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
 <a href="https://github.com/SilvaTechB/silva-spark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
 <a href="https://github.com/SilvaTechB/silva-spark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?style=flat-square&color=green"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Bladehack1/BLADE-XMD-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?style=flat-square&color=green"></a>
+<a href="https://github.com/Bladehack1/BLADE-XMD-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
