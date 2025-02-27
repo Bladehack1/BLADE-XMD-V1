@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/Bladehack1/BLADE-XMD-V1">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="SilvaTechBReadme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=bladeXMD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="bladeTechBReadme">
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ### 2. Get Session ID
 
-You will need a session ID to run Silva Spark MD. Click the button below to obtain your session ID:
+You will need a session ID to run blade XMD. Click the button below to obtain your session ID:
 
 <a href='https://silva-session-selector.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
@@ -109,7 +109,7 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 ---
 
-## 🔗 Silva Spark MD Info
+## 🔗 blade XMD Info
 
   <p align="center">
 <a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
@@ -144,8 +144,8 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 ### Thanks To Team ⤵️
 
-> Silva Spark MD Owner 
-- [Silva TechB](https://github.com/SilvaTechB)
+> blade XMD Owner 
+- [blade Tech](https://github.com/SilvaTechB)
 - Creator and Owner Of Silva Spark MD
 
 ---
