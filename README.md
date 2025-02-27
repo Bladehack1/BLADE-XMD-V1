@@ -2,7 +2,7 @@
   <h1 align="center">Silva Spark MD</h1>
 </p>
 
-> **`Updated` Silva Spark MD with Latest Features**
+> **`Updated` BLADE XMD with Latest Features**
 
 ---
 ### 🌟 Connect With Me
@@ -14,9 +14,9 @@
 </p>
 
 ---
-# Support Silva Tech Inc ❤️
+# Support blade Tech Inc ❤️
 
-[![Sponsor SilvaTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
+[![Sponsor bladeTech](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
 
 ---
 
@@ -30,7 +30,7 @@
 <p align="center">
 <a><img src='./sylivanus/SilvaSpark.png'/></a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/4i664a.jpg'/></a>
 
 ***
 
