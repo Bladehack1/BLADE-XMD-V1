@@ -1,7 +1,7 @@
 {
-  "name": "silva-spark-md",
-  "description": "Javascript WhatsApp bot made by Silva.",
-  "keywords": ["silva-spark-md"],
+  "name": "BLADE-XMD",
+  "description": "Javascript WhatsApp bot made by aldhassan.",
+  "keywords": ["blade-xmd"],
   "success_url": "/",
 
     "stack": "container",
@@ -21,7 +21,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> SILVA SPARK IS SPARKING ACTIVE AND ALIVE⚡"
+      "value": "> BLADE XMD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -78,26 +78,26 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Silva Spark MD 🚀🔥*"
+      "value": "*🎉👀 Seen by BLADE XMD 🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Silva Spark"
+      "value": "Blade Xmd"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254700143167"
+      "value": "243829465643"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ Silva ✦ Spark ✦ MD ✦"
+      "value": "✦ Mr ✦ Blade ✦ XMD ✦"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ Silva ✦ Spark ✦ MD ✦*"
+      "value": "*© ✦ Mr ✦ Blade ✦ XMD ✦*"
     },
 
       "DELETE_LINKS": {
