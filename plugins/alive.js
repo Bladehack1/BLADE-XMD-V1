@@ -13,16 +13,16 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *✦ Silva ✦ Spark ✦ MD ✦* 〕━━┈⊷
+        const status = `╭━━〔 *✦ MR ✦ BLADE ✦ XMD ✦* 〕━━┈⊷
 ┃🦄╭─────────────·๏
 ┃🦄┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃🦄┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}GB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}TB
 ┃🦄┃• *⚙️ HostName*: ${os.hostname()}
-┃🦄┃• *👨‍💻 Owner*: SPARK
+┃🦄┃• *👨‍💻 Owner*: BLADE
 ┃🦄┃• *🧬 Version*: 1.0.0
-✦ Silva ✦ Spark ✦ MD ✦
+✦ MR ✦ BLADE ✦ XMD ✦
 ╰──────────────┈⊷
-> © ✦ Silva ✦ Spark ✦ MD ✦`;
+> © ✦ Mr ✦ Blade ✦ XMD ✦`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363200367779016@newsletter',
-                    newsletterName: 'SILVA SPARK 💖',
+                    newsletterName: 'BLADE XMD💖',
                     serverMessageId: 143
                 }
             }
