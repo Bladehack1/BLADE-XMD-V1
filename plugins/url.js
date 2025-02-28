@@ -64,14 +64,14 @@ cmd({
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
         'newsletterJid': '120363200367779016@newsletter',
-        'newsletterName': "SILVA SPARK 🥰",
+        'newsletterName': "𝐁𝐋𝐀𝐃𝐄 𝐗𝐌𝐃 🥰",
         'serverMessageId': 0x8f
       }
     };
 
     // Send the URL as a reply
     await _0x2a615f.sendMessage(_0x462e92, {
-      'text': `*Image Uploaded Successfully 📸*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via SILVA-SPARK`,
+      'text': `*Image Uploaded Successfully 📸*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via 𝐁𝐋𝐀𝐃𝐄 𝐗𝐌𝐃`,
       'contextInfo': _0x273817
     });
 
