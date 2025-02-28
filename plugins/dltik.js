@@ -25,7 +25,7 @@ cmd({
       return _0x2303a0("Sorry, I couldn't fetch the TikTok content. Please check the link and try again.");
     }
     const _0x5796a2 = _0x233679.result;
-    const _0x48590b = "*𝕊𝕚𝕝𝕧𝕒 𝕊𝕡𝕒𝕣𝕜 𝕄𝔻* ⊷\n┃๏ *TIKTOK DOWNLOADER*\n···๏\n⊷\n*Post Details* ⊷\n*Type:* " + (_0x5796a2.type || "N/A") + "\n*Name:* " + (_0x5796a2.name || "N/A") + "\n*Username:* " + (_0x5796a2.username || 'N/A') + "\n*Views:* " + (_0x5796a2.views || 0x0) + "\n*Likes:* " + (_0x5796a2.likes || 0x0) + "\n*Comments:* " + (_0x5796a2.comments || 0x0) + "\n*Favorites:* " + (_0x5796a2.favorite || 0x0) + "\n┇๏ *Shares:* " + (_0x5796a2.shares || 0x0) + "    \n┇๏ *Description:* " + (_0x5796a2.description || "N/A") + "    \n╰━━━━━━━━━━━━──┈⊷\n> ©𝕊𝕚𝕝𝕧𝕒 𝕊𝕡𝕒𝕣𝕜 𝕄𝔻";
+    const _0x48590b = "*𝕄ℝ 𝔹𝕃𝔸𝔻𝔼 𝕏𝕄𝔻* ⊷\n┃๏ *TIKTOK DOWNLOADER*\n···๏\n⊷\n*Post Details* ⊷\n*Type:* " + (_0x5796a2.type || "N/A") + "\n*Name:* " + (_0x5796a2.name || "N/A") + "\n*Username:* " + (_0x5796a2.username || 'N/A') + "\n*Views:* " + (_0x5796a2.views || 0x0) + "\n*Likes:* " + (_0x5796a2.likes || 0x0) + "\n*Comments:* " + (_0x5796a2.comments || 0x0) + "\n*Favorites:* " + (_0x5796a2.favorite || 0x0) + "\n┇๏ *Shares:* " + (_0x5796a2.shares || 0x0) + "    \n┇๏ *Description:* " + (_0x5796a2.description || "N/A") + "    \n╰━━━━━━━━━━━━──┈⊷\n> ©𝕄ℝ 𝔹𝕃𝔸𝔻𝔼 𝕏𝕄𝔻";
     if (_0x5796a2.type === 'video') {
       await _0x5361f3.sendMessage(_0xd8ba49, {
         'video': {
@@ -52,7 +52,7 @@ cmd({
       }
     }
   } catch (_0x56bda5) {
-    console.error("𝕊𝕚𝕝𝕧𝕒 𝕊𝕡𝕒𝕣𝕜 𝕄𝔻 Error in TikTok command:", _0x56bda5);
-    _0x2303a0("𝕊𝕚𝕝𝕧𝕒 𝕊𝕡𝕒𝕣𝕜 𝕄𝔻 An error occurred while processing your request. Please try again later.");
+    console.error("𝕄ℝ 𝔹𝕃𝔸𝔻𝔼 𝕏𝕄𝔻 Error in TikTok command:", _0x56bda5);
+    _0x2303a0("𝕄ℝ 𝔹𝕃𝔸𝔻𝔼 𝕏𝕄𝔻 An error occurred while processing your request. Please try again later.");
   }
 });
