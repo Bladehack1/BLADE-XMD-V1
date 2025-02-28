@@ -8,12 +8,12 @@ cmd({
     pattern: "menu",
     desc: "menu the bot",
     category: "menu",
-    react: "💖",
+    react: "🇨🇩",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━━〔 *✦ Silva ✦ Spark ✦ MD ✦* 〕━━━┈⊷
+        let dec = `╭━━━〔 *✦ Mr ✦ Blade ✦ XMD ✦* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *${config.OWNER_NAME}*
 ┃★│ Baileys : *Multi Device*
@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -128,7 +128,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -206,7 +206,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -271,7 +271,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -330,7 +330,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -382,7 +382,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -441,7 +441,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -490,7 +490,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -559,7 +559,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -609,7 +609,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'MR BLADE XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
