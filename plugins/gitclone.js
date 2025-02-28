@@ -36,7 +36,7 @@ cmd({
     }
     let _0x49a379 = _0xe6be44.headers.get("content-disposition");
     let _0x481150 = _0x49a379 ? _0x49a379.match(/filename=(.*)/)[0x1] : _0x16a926 + ".zip";
-    _0x11eb9d("*📥𝘚𝘪𝘭𝘷𝘢 𝘚𝘱𝘢𝘳𝘬 𝘔𝘋 DOWNLOADING REPOSITORY...*\n\n*REPOSITORY:* " + _0x5194b2 + '/' + _0x16a926 + "\n*FILENAME:* " + _0x481150 + "\n\n> *© 𝘚𝘪𝘭𝘷𝘢 𝘚𝘱𝘢𝘳𝘬 𝘔𝘋*");
+    _0x11eb9d("*📥BLADE XMD DOWNLOADING REPOSITORY...*\n\n*REPOSITORY:* " + _0x5194b2 + '/' + _0x16a926 + "\n*FILENAME:* " + _0x481150 + "\n\n> *© MR BLADE XMD*");
     await _0x359a4d.sendMessage(_0x421a7d, {
       'document': {
         'url': _0x936878
@@ -49,7 +49,7 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363200367779016@newsletter",
-          'newsletterName': "SILVA GITHUB CLONE💀",
+          'newsletterName': "BLADE GITHUB CLONE💀",
           'serverMessageId': 0x8f
         }
       }
