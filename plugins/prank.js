@@ -35,7 +35,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
             '⚠️ _This is a simulated hacking activity for entertainment purposes._',
             '⚠️ _Remember: Ethical hacking ensures safety._',
             '',
-            '> *SILVA SPARK MD: HACKING SIMULATION COMPLETE* ☣'
+            '> *𝐌𝐑 𝐁𝐋𝐀𝐃𝐄 𝐗𝐌𝐃: HACKING SIMULATION COMPLETE* ☣'
         ];
 
         for (const step of steps) {
