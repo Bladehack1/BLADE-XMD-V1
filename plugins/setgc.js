@@ -136,7 +136,7 @@ cmd({
     _0x5c514e("Close time " + _0x490959 + " starting from now");
     setTimeout(() => {
       _0x33bbc7.groupSettingUpdate(_0x152d4d, "announcement");
-      _0x5c514e("> *NOW GROUP CLOSED BY SILVA SPARK MD*");
+      _0x5c514e("> *NOW GROUP CLOSED BY MR BLADE  XMD*");
     }, _0x4b2fe4);
     await _0x33bbc7.sendMessage(_0x152d4d, {
       'react': {
@@ -252,7 +252,7 @@ cmd({
     }
     await _0x188ee4.groupSettingUpdate(_0x5a0744.chat, "announcement");
     const _0x23264b = await _0x188ee4.sendMessage(_0x5a0744.chat, {
-      'text': "*GROUP CHAT MUTED BY SILVA SPARK MD* 🔒"
+      'text': "*GROUP CHAT MUTED BY MR BLADE XMD* 🔒"
     }, {
       'quoted': _0x2926d7
     });
@@ -312,7 +312,7 @@ cmd({
     }
     await _0x298fe1.groupSettingUpdate(_0x2602ac.chat, "not_announcement");
     const _0x74b371 = await _0x298fe1.sendMessage(_0x2602ac.chat, {
-      'text': "*GROUP CHAT UNMUTED BY SPARK DE SILVA BOT* 🔒"
+      'text': "*GROUP CHAT UNMUTED BY MR BLADE XMD* 🔒"
     }, {
       'quoted': _0x116d41
     });
