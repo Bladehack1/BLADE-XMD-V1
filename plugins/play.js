@@ -17,7 +17,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━━━〔 *⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈* 〕━━━┈⊷
+let desc = `╭━━━〔 *⎈ 𝖡𝖫𝖠𝖣𝖤 𝖷𝖬𝖣 ⎈* 〕━━━┈⊷
 ┃▸┃๏ *MUSIC DOWNLOADER*
 ╭━❮ *Download Audio* ❯━┈⊷
 ┃▸╭─────────────·๏
@@ -29,7 +29,7 @@ let desc = `╭━━━〔 *⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈* 〕━━
 ┃▸┃๏ *Ago* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
-> *©⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈ ♡*`
+> *©⎈ 𝖡𝖫𝖠𝖣𝖤 𝖷𝖬𝖣 ⎈ ♡*`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
 //download audio
@@ -62,7 +62,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `╭━━━〔 *⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈* 〕━━━┈⊷
+let des = `╭━━━〔 *⎈ 𝖡𝖫𝖠𝖣𝖤 𝖷𝖬𝖣 ⎈* 〕━━━┈⊷
 ┃▸┃๏ *VIDEO DOWNLOADER*
 ╭━❮ *Download Audio* ❯━┈⊷
 ┃▸╭─────────────·๏
@@ -74,7 +74,7 @@ let des = `╭━━━〔 *⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈* 〕━━�
 ┃▸┃๏ *Ago* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
-> *©⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈♡*`
+> *©⎈ 𝖡𝖫𝖠𝖣𝖤 𝖷𝖬𝖣♡*`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 
 //download video
@@ -84,7 +84,7 @@ let downloadUrl = down.dl_url
 
 //send video
 await conn.sendMessage(from,{video:{url: downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title + "mp4",caption:"©⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈"},{quoted:mek})
+await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title + "mp4",caption:"© ⎈ 𝖡𝖫𝖠𝖣𝖤 𝖷𝖬𝖣 ⎈"},{quoted:mek})
     
 }catch(a){
 reply(`${a}`)
