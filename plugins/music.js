@@ -17,7 +17,7 @@ cmd({
     return reply("Please provide a title or link (Spotify/YouTube)!");
   }
 
-  reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎 Fetching audio... 🎧");
+  reply("💎 BLADE XMD 💎 Fetching audio... 🎧");
 
   let spotifySent = false;
   let youtubeSent = false;
@@ -43,7 +43,7 @@ cmd({
           contextInfo: {
             externalAdReply: {
               title: spotifyTrack.title,
-              body: "💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎 🥰💖: SPOTIFY",
+              body: "💎 BLADE XMD 💎 🥰💖: SPOTIFY",
               mediaType: 1,
               sourceUrl: spotifyTrack.url,
               renderLargerThumbnail: true
@@ -76,7 +76,7 @@ cmd({
           contextInfo: {
             externalAdReply: {
               title: youtubeVideo.title,
-              body: "💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎🥰: YOUTUBE",
+              body: "💎 BLADE XMD 💎🥰: YOUTUBE",
               mediaType: 1,
               sourceUrl: youtubeVideo.url,
               renderLargerThumbnail: true
@@ -99,8 +99,8 @@ cmd({
   } else if (spotifySent && youtubeSent) {
     reply("Both Spotify and YouTube audio sent successfully.");
   } else if (spotifySent) {
-    reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎: Spotify audio sent successfully.");
+    reply("💎 BLADE XMD 💎: Spotify audio sent successfully.");
   } else if (youtubeSent) {
-    reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎: YouTube audio sent successfully.");
+    reply("💎 BLADE XMD 💎: YouTube audio sent successfully.");
   }
 });
