@@ -30,7 +30,7 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://i.imgur.com/NCxpd2Y.jpeg' }, // Image URL from your request
-            caption: `╭━━〔 *⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈* 〕━━┈⊷
+            caption: `╭━━〔 *⎈ BLADE XMD ⎈* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -38,14 +38,14 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Version*: 1.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ©⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈`, // Display the owner's details
+> ©⎈MR BLADE XMD ⎈`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363200367779016@newsletter',
-                    newsletterName: 'SILVA DEVELOPERS🥰💖🥰',
+                    newsletterName: 'ALD HASSAN DEVELOPERS🥰💖🥰',
                     serverMessageId: 143
                 }            
             }
