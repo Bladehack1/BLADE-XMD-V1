@@ -38,7 +38,7 @@ cmd({
         // Send a success message with the output
         await conn.sendMessage(
             from,
-            { text: `*✅ Silva Spark Update completed successfully!*\n\n\`\`\`${output}\`\`\`` },
+            { text: `*✅ Blade XMD Update completed successfully!*\n\n\`\`\`${output}\`\`\`` },
             { quoted: mek }
         );
     } catch (error) {
