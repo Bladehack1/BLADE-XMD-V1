@@ -174,7 +174,7 @@ cmd({
 }) => {
   try {
     const _0x361884 = await _0x5cfd31.sendMessage(_0x453318, {
-      'text': "> KHANX-AI"
+      'text': "> BLADE XMD AI"
     });
     const _0x206081 = ['😳', '😊', '😶', '🙈', '🙊', '😳', '😊', '😶', '🙈', '🙊'];
     for (const _0x5ccb6e of _0x206081) {
