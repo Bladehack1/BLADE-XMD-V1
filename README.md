@@ -43,7 +43,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb3h64f1NCrMBksGl826)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{bladexMD}/count.svg" alt="SilvaTechB :: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{bladexMD}/count.svg" alt="bladeTechB :: Visitor's Count" /></p>
 
 <p align="center">
 <a href="https://github.com/Bladehack1/BLADE-XMD-V1"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
@@ -60,7 +60,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Bladehack1/BLADE-XMD-V1/fork"><img title="Blade-Xmd" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Bladehack1/BLADE-XMD-V1/fork"><img title="Blade-Xmd" src="https://img.shields.io/badge/FORK-blade%20X%20md-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. Get Session ID
 
