@@ -35,7 +35,7 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB"><img title="Developer" src="https://img.shields.io/badge/Author-Silva%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Bladehack1"><img title="Developer" src="https://img.shields.io/badge/Author-blade%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -43,7 +43,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb3h64f1NCrMBksGl826)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SilvaSparkMD}/count.svg" alt="SilvaTechB :: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{bladexMD}/count.svg" alt="SilvaTechB :: Visitor's Count" /></p>
 
 <p align="center">
 <a href="https://github.com/Bladehack1/BLADE-XMD-V1"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
@@ -112,9 +112,9 @@ You will need a session ID to run blade XMD. Click the button below to obtain yo
 ## 🔗 blade XMD Info
 
   <p align="center">
-<a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/bladeTechB?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bladeTechB/blade-Xmd?color=blue&style=flat-square"></a>
-<a href="https://github.com/Bladehack1/BLADE-XMD-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bladeTechB/silva-spark-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/Bladehack1/followers"><img title="Followers" src="https://img.shields.io/github/followers/bladeTechB?color=blue&style=flat-square"></a>
+<a href="https://github.com/Bladehack1/BLADE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bladeTechB/blade-Xmd?color=blue&style=flat-square"></a>
+<a href="https://github.com/Bladehack1/BLADE-XMD-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bladeTechB/blade-xmd?color=blue&style=flat-square"></a>
 <a href="https://github.com/Bladehack1/BLADE-XMD-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/bladeTechB/blade-Xmd?style=flat-square&color=green"></a>
 <a href="https://github.com/Bladehack1/BLADE-XMD-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -145,7 +145,7 @@ You will need a session ID to run blade XMD. Click the button below to obtain yo
 ### Thanks To Team ⤵️
 
 > blade XMD Owner 
-- [blade Tech](https://github.com/SilvaTechB)
+- [blade Tech](https://github.com/Bladehack1)
 - Creator and Owner Of blade XMD
 
 ---
