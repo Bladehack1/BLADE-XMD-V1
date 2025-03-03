@@ -58,6 +58,6 @@ cmd({
 
     } catch (e) {
         console.error("Error:", e);
-        reply(`❌ An error occurred: ${e.message}`);
+        reply(`❌ 📍An error occurred: ${e.message}`);
     }
 });
